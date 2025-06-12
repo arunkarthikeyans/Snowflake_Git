@@ -4,3 +4,4 @@ VALUES
     ('Alice', 'alice@example.com', 'USA'),
     ('Bob', 'bob@example.com', 'Canada'),
     ('Charlie', 'charlie@example.com', 'UK');
+    
